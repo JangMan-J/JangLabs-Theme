@@ -1,6 +1,6 @@
 # Project: theme
 
-> **Lab scope — `theme/`** · nested repo [`Theme`](https://github.com/JangMan-J/Theme). This file is the authority for work *inside this lab* and **overrides** the workspace root [`../CLAUDE.md`](../CLAUDE.md). Stay in this lab — don't reach into or edit sibling labs from here. Entry point for a fresh session: [`HANDOFF.md`](./HANDOFF.md).
+> **Lab scope — `theme/`** · nested repo [`JangLabs-Theme`](https://github.com/JangMan-J/JangLabs-Theme). This file is the authority for work *inside this lab* and **overrides** the workspace root [`../CLAUDE.md`](../CLAUDE.md). Stay in this lab — don't reach into or edit sibling labs from here. Entry point for a fresh session: [`HANDOFF.md`](./HANDOFF.md).
 
 This lab is a data-first research lab. The goal is a **source-driven** mapper
 from a terminal/TUI color scheme to desktop/app theme configs (KDE Plasma
